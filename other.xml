@@ -35,10 +35,13 @@
           <State>
             <id>Probable bugsPhp Inspections (EA Extended)PHP</id>
           </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>SuspiciousLoopInspection</id>
+            <id>PhpParamsInspection</id>
           </State>
         </selected-state>
       </profile-state>
