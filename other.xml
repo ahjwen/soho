@@ -27,21 +27,12 @@
             <id />
           </State>
           <State>
-            <id>Code StylePhp Inspections (EA Extended)PHP</id>
-          </State>
-          <State>
-            <id>GeneralPHP</id>
-          </State>
-          <State>
             <id>PHP</id>
-          </State>
-          <State>
-            <id>Php Inspections (EA Extended)PHP</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>DeclareUseStrictTypesInspection</id>
+            <id>PhpCSValidationInspection</id>
           </State>
         </selected-state>
       </profile-state>
