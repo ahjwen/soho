@@ -29,10 +29,16 @@
           <State>
             <id>PHP</id>
           </State>
+          <State>
+            <id>Php Inspections (EA Extended)PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPhp Inspections (EA Extended)PHP</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PhpCSValidationInspection</id>
+            <id>UntrustedInclusionInspection</id>
           </State>
         </selected-state>
       </profile-state>

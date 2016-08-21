@@ -1,3 +1,4 @@
 <inspections profile_name="wayme" version="1.0">
   <option name="myName" value="wayme" />
+  <inspection_tool class="UntrustedInclusionInspection" enabled="false" level="ERROR" enabled_by_default="false" />
 </inspections>
