@@ -1,0 +1,6 @@
+<code_scheme name="wayme">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <PHPCodeStyleSettings>
+    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+  </PHPCodeStyleSettings>
+</code_scheme>
