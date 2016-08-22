@@ -38,10 +38,13 @@
           <State>
             <id>Type compatibilityPHP</id>
           </State>
+          <State>
+            <id>Type compatibilityPhp Inspections (EA Extended)PHP</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>ForgottenDebugOutputInspection</id>
+            <id>ForeachSourceInspection</id>
           </State>
         </selected-state>
       </profile-state>
