@@ -25,7 +25,10 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="SHOW_WHITESPACES" value="true" />
+        </PlaceSettings>
       </entry>
       <entry key="Merge">
         <PlaceSettings />
