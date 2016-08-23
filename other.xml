@@ -27,6 +27,9 @@
             <id />
           </State>
           <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
             <id>PHP</id>
           </State>
           <State>
@@ -44,7 +47,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>ForeachSourceInspection</id>
+            <id>LossyEncoding</id>
           </State>
         </selected-state>
       </profile-state>
