@@ -47,7 +47,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>LossyEncoding</id>
+            <id>ForeachSourceInspection</id>
           </State>
         </selected-state>
       </profile-state>
