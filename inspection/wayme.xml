@@ -66,6 +66,7 @@
   <inspection_tool class="OpAssignShortSyntaxInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ParameterByRefWithDefaultInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PdoApiUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUndefinedVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUnitTestsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PrefixedIncDecrementEquivalentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PrintfScanfArgumentsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
