@@ -1,4 +1,5 @@
 <code_scheme name="Default (1)">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <PHPCodeStyleSettings>
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />

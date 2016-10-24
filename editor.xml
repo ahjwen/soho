@@ -1,18 +1,10 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="IS_VIRTUAL_SPACE" value="true" />
+    <option name="IS_CARET_INSIDE_TABS" value="true" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="55ff" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="55ff" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="55ff" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="55ff" />
-    </pattern>
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
 </application>
