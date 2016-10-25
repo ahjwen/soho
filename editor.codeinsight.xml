@@ -1,9 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="wayme" />
-  <component name="XmlSettings">
-    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
-  </component>
 </application>
