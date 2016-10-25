@@ -4,7 +4,6 @@
       <MessDetectorConfiguration />
     </phpmd_settings>
   </component>
-  <component name="PhpAutoImport" auto_import_namespace_scope="false" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration />
