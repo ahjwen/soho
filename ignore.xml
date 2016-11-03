@@ -21,6 +21,11 @@
       <language id="Perforce" NEW_FILE="true" ENABLE="true" />
       <language id="Team Foundation" NEW_FILE="true" ENABLE="true" />
     </languages>
-    <userTemplates />
+    <userTemplates>
+      <template name="phpstrom.init"># This is a single ignore file IDE
+.idea/
+.DS_Store</template>
+      <template name="Current directory ignored to local">.gitignore</template>
+    </userTemplates>
   </component>
 </application>
