@@ -25,7 +25,8 @@
       <template name="phpstrom.init"># This is a single ignore file IDE
 .idea/
 .DS_Store</template>
-      <template name="Current directory ignored to local">.gitignore</template>
+      <template name="Current directory ignored to ignore file">.gitignore</template>
+      <template name="current directory ignored to all file">*</template>
     </userTemplates>
   </component>
 </application>
