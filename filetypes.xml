@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="init3" type="Native" />
       <mapping pattern="link" type="PLAIN_TEXT" />
+      <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
